@@ -1,0 +1,22 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A. It was easy to see subtle differences like a spelling typo without having to read through every single line of code. 
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A. This would make you a more efficient programmer by not having to start from scratch when reverting back to previous versions of a file that might have 
+worked in the past
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git vs having versions automatically saved?
+A. Choosing when to commit allows you to have full control over the scope and understanding what changes were made during the commit. An auto save 
+might just take up room and not actually save any significant changes to the project, which down the line would just cause confusion
+
+4. Why do you thikn some vcs like Git allow saving multiple fils in one commit, while others treat each file separately?
+It's probably a more complex action to be able to save multiple files in one commit. 
+
+5. How can you use the commands git log and git diff to view the history of files?
+use git log to find all the commits. use git dff to compare two commits and determine what the changes were.
+
+6. How might using version control make you more confident to make changes that could break something?
+Version control allows the confidence to make changes knowing that you can revert back to a working version if something goes wrong. Or you can test your
+changes before committing them. 
+
+ 
